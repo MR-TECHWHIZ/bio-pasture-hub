@@ -17,7 +17,7 @@ Our mission is to make high-quality, affordable, and eco-friendly fodder accessi
 
 ---
 
-## 🧩 Features
+##  Features
 - ✅ Responsive and modern design (mobile & desktop friendly)  
 - ✅ Interactive hamburger navigation menu  
 - ✅ Team section with professional profiles  
@@ -27,13 +27,27 @@ Our mission is to make high-quality, affordable, and eco-friendly fodder accessi
 
 ---
 
-##  Technologies Used
-- **HTML5** — structure  
-- **CSS3** — styling and responsive layout  
-- **JavaScript (ES6)** — interactivity and animations  
-- **FormSubmit.co** — email forwarding for contact form  
-- **GitHub Pages** — hosting and deployment  
+##Team Members
+| Name | Role | Description |
+|------|------|-------------|
+| **Glory Bosco** | Founder & CEO | Guides strategy and partnerships with a commitment to farmer-centred innovation. |
+| **Grace Mwakinga** | Operations Manager | Oversees day-to-day production and logistics to keep fodder flowing reliably. |
+| **Janeth Cosmas** | Sales & Marketing Lead | Builds market presence and customer relationships across livestock sectors. |
+| **Winifrida Mwasyika** | Animal Scientist | Ensures nutritional quality and advises on best practices for animal performance. |
+| **Charles Naftari** | IT & Development Manager | Leads digital systems and ensures smooth customer interactions online. |
 
 ---
 
-## 📂 Folder Structure
+## Contact
+📧 Email: [biopasturehub@gmail.com](mailto:biopasturehub@gmail.com)  
+📱 WhatsApp: Available via the “Buy Now” button on the website  
+
+---
+Acknowledgments
+
+Special thanks to everyone supporting farmer innovation and sustainable agriculture in Africa.
+Together, we’re Feeding the Future, Sustainably.
+---
+
+
+
