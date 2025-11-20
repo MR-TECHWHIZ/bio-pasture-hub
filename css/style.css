@@ -9,9 +9,6 @@ body {
   font-family: "Segoe UI", 'Poppins', sans-serif;
   color: #fff;
 }
-
-}
-
 /* Navbar */
 .navbar {
   display: flex;
@@ -65,7 +62,7 @@ nav a:hover {
 
 .hero-content {
   /* flex: 1; */
-  padding: 4rem 4rem;
+  padding: 6rem 4rem;
   justify-content: center; 
   text-align: center;
   
@@ -1342,6 +1339,7 @@ nav#nav-menu {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
 
 
 
