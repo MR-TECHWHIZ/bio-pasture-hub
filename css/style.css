@@ -177,7 +177,7 @@ nav a:hover {
 
 .about-details h3 {
   font-size: 1.3rem;
-  color: #0d1b2a;
+  color: #1b5e20;
   margin-bottom: 0.8rem;
   font-weight: 700;
 }
@@ -1339,6 +1339,7 @@ nav#nav-menu {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
 
 
 
