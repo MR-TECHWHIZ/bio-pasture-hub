@@ -2,7 +2,7 @@
 **Feeding the Future, Sustainably**
 
 Welcome to **Bio-Pasture Hub**, an innovative agritech initiative focused on empowering farmers through sustainable animal feed production and pasture management.  
-Our mission is to make high-quality, affordable, and eco-friendly fodder accessible to livestock keepers everywhere — driving productivity while protecting our planet.
+Our mission is to make high-quality, affordable, and eco-friendly fodder accessible to livestock keepers everywhere driving productivity while protecting our planet.
 
 ---
 
