@@ -13,17 +13,7 @@ Our mission is to make high-quality, affordable, and eco-friendly fodder accessi
 - Showcase our dedicated team and their commitment to farmer-centred innovation.  
 - Provide easy online communication through our integrated contact form.  
 
- **Tagline:** *Feeding the Future, Sustainably*
-
----
-
-##  Features
-- ✅ Responsive and modern design (mobile & desktop friendly)  
-- ✅ Interactive hamburger navigation menu  
-- ✅ Team section with professional profiles  
-- ✅ Testimonial and product sections with images  
-- ✅ Contact form linked to email via [FormSubmit.co](https://formsubmit.co)  
-- ✅ "Buy Now" button integrated with WhatsApp for quick orders  
+ **Our Tagline:** *Feeding the Future, Sustainably*
 
 ---
 
